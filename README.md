@@ -3,6 +3,18 @@ Using Disparity Map and Optical Flow info to extract features from the detected 
 
 ![maskRCNN with DisparityMap and OpicalFlow](https://i.imgur.com/kweos0Q.png)
 
+ ## Citation:
+ ```
+@misc{rateke:2020.2,
+    title = {Road obstacles positional and dynamic features extraction combining object detection, stereo disparity maps and optical flow data},
+    author = {Thiago Rateke and Aldo von Wangenheim},
+    year = {2020},
+    eprint = {2006.14011},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CV},
+}
+```
+
 ## Disparity Map: 
 First of all you need to build the disparity map images. To do this, we use the Stereo Vision code in filteredDisparityMap.cpp
 
