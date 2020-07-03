@@ -39,3 +39,12 @@ Example edited from: https://www.learnopencv.com/deep-learning-based-object-dete
 **Download and extract the model files**: <br/>
 wget http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_coco_2018_01_28.tar.gz <br/>
 tar zxvf mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
+
+## Images:
+For the images used here, 2 datasets were used:
+ - KITTI dataset [1].
+ - CaRINA dataset [2].
+ 
+## REFERENCES:
+- [1] - GEIGER, A. et al. Vision meets robotics: The kittidataset. Int. J. Rob. Res., Sage Publications, Inc., ThousandOaks, CA, USA, v. 32, n. 11, p. 1231–1237, sep 2013. Doi:hhttp://dx.doi.org/10.1177/0278364913491297i. Url: http://www.cvlibs.net/datasets/kitti/raw_data.php </br>
+- [2] - SHINZATO, P. Y. et al. Carina dataset: An emerging-country urban scenario benchmark for road detection systems.In:2016 IEEE 19th International Conference on IntelligentTransportation Systems (ITSC). [S.l.:  s.n.], 2016. p. 41–46.Doi:hhttp://dx.doi.org/10.1109/ITSC.2016.7795529i. Url: http://www.lrm.icmc.usp.br/dataset  </br>
