@@ -14,6 +14,8 @@ Using Disparity Map and Optical Flow info to extract features from the detected 
     primaryClass = {cs.CV},
 }
 ```
+ - [Preprint Paper](https://www.researchgate.net/publication/342464877_Road_obstacles_positional_and_dynamic_features_extraction_combining_object_detection_stereo_disparity_maps_and_optical_flow_data)
+ 
 
 ## Disparity Map: 
 First of all you need to build the disparity map images. To do this, we use the Stereo Vision code in filteredDisparityMap.cpp
