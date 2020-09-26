@@ -6,15 +6,20 @@ Using Disparity Map and Optical Flow info to extract features from the detected 
  ## Citation:
  ```
 @misc{rateke:2020.2,
+    author = {Rateke, Thiago and Wangenheim, Aldo von},
     title = {Road obstacles positional and dynamic features extraction combining object detection, stereo disparity maps and optical flow data},
-    author = {Thiago Rateke and Aldo von Wangenheim},
     year = {2020},
-    eprint = {2006.14011},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CV},
+    month={Sep},
+    day={25},
+    volume={31},
+    number={7},
+    pages={73},
+    issn={1432-1769},
+    doi={10.1007/s00138-020-01126-w},
+    url={https://doi.org/10.1007/s00138-020-01126-w}
 }
 ```
- - [Preprint Paper](https://www.researchgate.net/publication/342464877_Road_obstacles_positional_and_dynamic_features_extraction_combining_object_detection_stereo_disparity_maps_and_optical_flow_data)
+ - [Original Paper](https://rdcu.be/b7I4f)
  
 
 ## Disparity Map: 
